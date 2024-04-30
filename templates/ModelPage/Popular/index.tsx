@@ -36,7 +36,7 @@ const Popular = ({}: PopularProps) => {
                         speed={500}
                         loop={true}
                         pagination={{ clickable: true }}
-                        initialSlide={1}
+                        initialSlide={3}
                         autoHeight={true}
                         breakpoints={{
                             1440: {

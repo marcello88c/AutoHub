@@ -11,12 +11,12 @@ const Models = ({}: ModelsProps) => (
             <div className="mb-14 label">Our variant electric cars </div>
             <div className="flex justify-between mb-40 xl:mb-30 lg:block">
                 <div className="max-w-[39rem] mr-12 text-h1 lg:mr-0 lg:mb-14">
-                    Fulfill your mobility needs with carsova variants of
+                    Fulfill your mobility needs with AutoHub variants of
                     electric vehicles.
                 </div>
                 <div className="shrink-0 w-[29.5rem] lg:w-full">
                     <div className="mb-8 text-g-100">
-                        Carsova offers a choice of electric vehicles that meet
+                        AutoHub offers a choice of electric vehicles that meet
                         different preferences and needs, ensuring a
                         comprehensive solution for modern and sustainable
                         transportation.
